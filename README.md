@@ -24,3 +24,5 @@ To design and present detailed 3D models with clean topology, optimized mesh, an
 
 ## 📁 Folder Structure
 
+![](Alatmusiktradisional.jpg)
+![](canneyFInal.jpg)
