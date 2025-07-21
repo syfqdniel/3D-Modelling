@@ -28,3 +28,8 @@ To design and present detailed 3D models with clean topology, optimized mesh, an
 ## Alat Musik Tradisional
 ![Poster](Image%20Result/Alat%20musik%20traditional.jpg)
 
+## Product 
+![Mockup](Image%20Result/Product.png)
+
+## Booth 
+![Mockup](Image%20Result/Booth.png)
