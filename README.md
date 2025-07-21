@@ -23,8 +23,10 @@ To design and present detailed 3D models with clean topology, optimized mesh, an
 - Marmoset Toolbag (for rendering)
 
 ## 📁 Folder Structure
--Canney 
+
+## Canney 
 ![Mockup](Image%20Result/CanneyFInal.jpg)
--Alat Musik Tradisional
+
+## Alat Musik Tradisional
 ![Poster](Image%20Result/Alat%20musik%20traditional.jpg)
 
