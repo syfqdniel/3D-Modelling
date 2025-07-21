@@ -16,11 +16,9 @@ To design and present detailed 3D models with clean topology, optimized mesh, an
 
 ## 🛠️ Tools Used
 
-- Blender 3.6+
+- Blender 4.3
 - Autodesk Maya (optional)
-- Substance Painter
 - Adobe Photoshop (texture editing)
-- Marmoset Toolbag (for rendering)
 
 ## 📁 Folder Structure
 
